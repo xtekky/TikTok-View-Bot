@@ -7,9 +7,10 @@ TikTok Unpatched ViewBot using TikTok API
 2) install http
 [Toolkit](https://httptoolkit.tech/)
 3) install toolkit on your phone and scan qr code when you click on this option
+
 ![image](https://user-images.githubusercontent.com/98614666/181655676-a1fb2e7b-fd8a-49be-87f7-379410357836.png)
 
-4) Take a random request and look at the parameters 
+4) switch to the view tab, open tiktok and Take a random request and look at the parameters 
 
 
 ![image](https://user-images.githubusercontent.com/98614666/181656101-53be5a8d-1f17-4f29-861b-d48f01e5d635.png)
