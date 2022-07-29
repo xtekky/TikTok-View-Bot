@@ -51,8 +51,8 @@ def view(video):
             url = (
                 "https://"
                     + host
-                    + "/aweme/v1/aweme/stats"
-                    + f"?{params}"
+                    + "/aweme/v1/aweme/stats?"
+                    + params
             ),
             data = (
                 f'&manifest_version_code={version}'
