@@ -20,3 +20,12 @@ TikTok fuck you, yall devs are shit, lmao, billion chingchangchong company, no s
 ![image](https://user-images.githubusercontent.com/98614666/181656165-1d7cec9b-1331-431f-afba-7f8f901ec19e.png)
 
 6) Launch script, don't thread too high, there is ratelimit, if you get ratelimited, wait 10 minutes and launch again
+
+Q.A
+why is it slow ?
+because ur using only one device id
+
+why u don't make faster?
+because I won't leak something I can sell and sold for 1k
+
++ only unpatched viewbot using TikTok api rn
