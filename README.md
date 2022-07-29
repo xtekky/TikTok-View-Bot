@@ -1,4 +1,4 @@
-TikTok Unpatched ViewBot using TikTok API 
+TikTok fuck you, yall devs are shit, lmao, billion chingchangchong company, no security
 
 
 ### How to get device id ?
