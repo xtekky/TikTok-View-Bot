@@ -1,8 +1,6 @@
 > **Warning** If you want a faster viewbot, 10k/s unpatched with device gen dm [t.me/xtekky](https://t.me/xtekky) **500€**, demo on request
 
-![image](https://user-images.githubusercontent.com/98614666/182032755-a47a99bf-6b99-4061-bdfe-7bb332743c35.png)
-
-![image](https://user-images.githubusercontent.com/98614666/182032757-3f388348-11c2-454c-96b8-2cf6d88516cb.png)
+https://user-images.githubusercontent.com/98614666/182040527-2c72dd31-1c4a-4e49-ade2-fa2f800d75e5.mp4
 
 ### How to get device id ?
 1) Install TikTok
