@@ -1,4 +1,6 @@
-TikTok fuck you, yall devs are shit, lmao, billion chingchangchong company, no security
+> **Warning** If you want a faster viewbot, 1k/s unpatched with device gen dm [t.me/xtekky](https://t.me/xtekky) 500€, demo on request
+>
+> **Note** TikTok fuck you, yall devs are shit, lmao, billion chingchangchong company, no security
 
 
 ### How to get device id ?
