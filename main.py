@@ -2,7 +2,7 @@
 #-*- coding:utf-8 -*-
 
 """
-@author: &! Tekky#1337
+@author: &! Tekky#1337 
 @file: main.py
 @time: 2024/07/29
 """
