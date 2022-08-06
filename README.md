@@ -1,4 +1,4 @@
-> **Warning** If you want a faster viewbot, 10k/s unpatched with device gen dm [t.me/xtekky](https://t.me/xtekky) **500€**, demo on request
+> **Warning** If you want a faster viewbot, 10k/s unpatched with device gen dm [t.me/xtekky](https://t.me/xtekky) **100€**, demo on request
 
 https://user-images.githubusercontent.com/98614666/182040527-2c72dd31-1c4a-4e49-ade2-fa2f800d75e5.mp4
 
